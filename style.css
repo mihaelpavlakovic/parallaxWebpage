@@ -60,6 +60,7 @@ section {
 
 @media screen and (max-width: 768px) {
   .title {
+    transform: translateY(-70px);
     font-size: 4rem;
   }
 
